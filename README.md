@@ -27,10 +27,10 @@ The data source used for this project is Heart.csv
 The heart.csv Data Set contains attributes like: age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal, target.
 
 # Applying algorithms
-K Nearest Neighbors
-Random Forest Classifier
-Decision Tree Classifier
-Support Vector Classifier
+K Nearest Neighbors,
+Random Forest Classifier,
+Decision Tree Classifier,
+Support Vector Classifier,
 Naive Bayes
 
 # Accuracy comparision
